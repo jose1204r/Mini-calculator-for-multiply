@@ -1,0 +1,15 @@
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.csproj.AssemblyReference.cache
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.AssemblyInfoInputs.cache
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.AssemblyInfo.cs
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.csproj.CoreCompileInputs.cache
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/bin/Debug/net6.0/mothod
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/bin/Debug/net6.0/mothod.deps.json
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/bin/Debug/net6.0/mothod.runtimeconfig.json
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/bin/Debug/net6.0/mothod.dll
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/bin/Debug/net6.0/mothod.pdb
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.dll
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/refint/mothod.dll
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.pdb
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/mothod.genruntimeconfig.cache
+/Users/joserodriguezrohttis/Desktop/mothod/mothod/obj/Debug/net6.0/ref/mothod.dll
