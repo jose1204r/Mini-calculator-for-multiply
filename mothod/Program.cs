@@ -30,7 +30,7 @@ namespace mothod
 
 
 
-        Console.WriteLine("Place your numer to multiply :");
+        Console.WriteLine("Place your number to multiply :");
 
         int userImput1 = Convert.ToInt32(Console.ReadLine());
 
@@ -42,7 +42,7 @@ namespace mothod
         Console.WriteLine($" The Result : {result}");
         Console.ReadLine();
 
-
+        
 
         }
 
